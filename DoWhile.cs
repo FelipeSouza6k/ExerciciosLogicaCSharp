@@ -6,19 +6,18 @@ using System.Threading.Tasks;
 
 namespace ExerciciosLogica
 {
-    internal class SeSenao
+    internal class DoWhile
     {
         public static void Main(string[] args)
         {
-            int horario = 10;
-            if (horario > 18 )
+            Console.WriteLine("Utilizando Do While");
+            int i = 1;
+            do
             {
-                Console.WriteLine("Boa Noite");
-            }
-            else
-            {
-                Console.WriteLine("Bom dia");
-            }
+                i++;
+                Console.WriteLine(i);
+                
+            } while (i < 5);
         }
     }
 }
