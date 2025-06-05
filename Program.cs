@@ -25,4 +25,10 @@ using ExerciciosLogica;
 //SomatórioNumerosParesFor.Main(args);
 //ApresentarNumerosImpares1e20.Main(args);
 //ApresentarNumerosDivisiveisPor4.Main(args);
-PotenciasDe3SemExponenciacao.Main(args);
+//PotenciasDe3SemExponenciacao.Main(args);
+//CaracterEspeciais.Main(args);
+//Bolleano.Main(args);
+//BreakContinue.Break(args);
+//BreakContinue.Continue(args);
+SubString.Main(args);
+
