@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe.rsouza23\\Source\\Repos\\ExerciciosLogicaCSharp\\ExerciciosLogica.csproj": {}
+    "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\Área de Trabalho\\CSharpExerciciosLogica\\ExerciciosLogica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe.rsouza23\\Source\\Repos\\ExerciciosLogicaCSharp\\ExerciciosLogica.csproj": {
+    "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\Área de Trabalho\\CSharpExerciciosLogica\\ExerciciosLogica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe.rsouza23\\Source\\Repos\\ExerciciosLogicaCSharp\\ExerciciosLogica.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\Área de Trabalho\\CSharpExerciciosLogica\\ExerciciosLogica.csproj",
         "projectName": "ExerciciosLogica",
-        "projectPath": "C:\\Users\\felipe.rsouza23\\Source\\Repos\\ExerciciosLogicaCSharp\\ExerciciosLogica.csproj",
-        "packagesPath": "C:\\Users\\felipe.rsouza23\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe.rsouza23\\Source\\Repos\\ExerciciosLogicaCSharp\\obj\\",
+        "projectPath": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\Área de Trabalho\\CSharpExerciciosLogica\\ExerciciosLogica.csproj",
+        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\Área de Trabalho\\CSharpExerciciosLogica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\felipe.rsouza23\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

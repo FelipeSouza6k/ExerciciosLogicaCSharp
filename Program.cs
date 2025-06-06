@@ -30,5 +30,12 @@ using ExerciciosLogica;
 //Bolleano.Main(args);
 //BreakContinue.Break(args);
 //BreakContinue.Continue(args);
-SubString.Main(args);
-
+//SubString.Main(args);
+//Vetor.Main(args);
+//CriacaoVetores.Main(args);
+//ForEachVetores.Main(args);
+//ForEachExemplo02.Main(args);
+//ForEachSort.Main(args);
+//ForEachSort2.Main(args);
+//SystemLinq.Main(args);
+Matriz2D.Main(args);
