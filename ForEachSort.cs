@@ -12,10 +12,13 @@ namespace ExerciciosLogica
         {
             string[] carro = {"BMW", "Volkswagen", "Hyunday", "Fiat" };
             Array.Sort(carro);
+            int i = 0;
             foreach (string marca in carro)
             {
+                i++;
                 Console.WriteLine(marca);
             }
+            Console.WriteLine(i);
         }
     }
 }
