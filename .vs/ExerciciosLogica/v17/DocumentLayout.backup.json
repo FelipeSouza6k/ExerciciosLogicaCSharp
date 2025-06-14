@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\horaextrafuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:horaextrafuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\cestadefrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:cestadefrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\tempojogodexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:tempojogodexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\valoresordemcrescente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:valoresordemcrescente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\professor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:professor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\systemlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:systemlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CestaDeFrutas.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\CestaDeFrutas.cs",
-              "RelativeDocumentMoniker": "CestaDeFrutas.cs",
-              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\CestaDeFrutas.cs",
-              "RelativeToolTip": "CestaDeFrutas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HoraExtraFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\HoraExtraFuncionario.cs",
+              "RelativeDocumentMoniker": "HoraExtraFuncionario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\HoraExtraFuncionario.cs*",
+              "RelativeToolTip": "HoraExtraFuncionario.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T15:15:29.91Z",
+              "WhenOpened": "2025-06-14T01:20:25.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Fruta.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Fruta.cs",
-              "RelativeDocumentMoniker": "Fruta.cs",
-              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Fruta.cs",
-              "RelativeToolTip": "Fruta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Title": "TempoJogoDeXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\TempoJogoDeXadrez.cs",
+              "RelativeDocumentMoniker": "TempoJogoDeXadrez.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\TempoJogoDeXadrez.cs",
+              "RelativeToolTip": "TempoJogoDeXadrez.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T15:14:43.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAC8AAAAAAAAAAIAwwD0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T15:12:16.723Z",
+              "WhenOpened": "2025-06-14T01:00:12.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Professor2.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Professor2.cs",
-              "RelativeDocumentMoniker": "Professor2.cs",
-              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Professor2.cs",
-              "RelativeToolTip": "Professor2.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAApwBkAAAAJAAAAAAAAAA==",
+              "Title": "ValoresOrdemCrescente.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\ValoresOrdemCrescente.cs",
+              "RelativeDocumentMoniker": "ValoresOrdemCrescente.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\ValoresOrdemCrescente.cs",
+              "RelativeToolTip": "ValoresOrdemCrescente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA6wBYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T15:03:46.069Z",
+              "WhenOpened": "2025-06-14T00:40:35.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Computador.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Computador.cs",
-              "RelativeDocumentMoniker": "Computador.cs",
-              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Computador.cs",
-              "RelativeToolTip": "Computador.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBEAAAA1AAAAAAAAAA==",
+              "Title": "SystemLinq.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\SystemLinq.cs",
+              "RelativeDocumentMoniker": "SystemLinq.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\SystemLinq.cs",
+              "RelativeToolTip": "SystemLinq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:52:53.76Z",
+              "WhenOpened": "2025-06-13T15:04:28.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAABg1fVXug0dwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:16:33.565Z",
               "EditorCaption": ""
             }
           ]
