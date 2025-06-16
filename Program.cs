@@ -70,4 +70,11 @@ using ExerciciosLogica;
 //MaiorValor.Main(args);
 //ValoresOrdemCrescente.Main(args);
 //TempoJogoDeXadrez.Main(args);
-HoraExtraFuncionario.Main(args);
+//HoraExtraFuncionario.Main(args);
+//SomarElementosArray.Main(args);
+//MaiorValorArray.Main(args);
+//ImprimirValorInvertido.Main(args);
+//ContarVogaisArray.Main(args);
+//Tabuada1a10Array2D.Main(args);
+//Caderno.Main(args)
+Biblioteca.Main(args);
