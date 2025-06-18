@@ -77,4 +77,5 @@ using ExerciciosLogica;
 //ContarVogaisArray.Main(args);
 //Tabuada1a10Array2D.Main(args);
 //Caderno.Main(args)
-Biblioteca.Main(args);
+//Biblioteca.Main(args);
+Moto.Main(args);

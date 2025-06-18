@@ -10,7 +10,6 @@ namespace ExerciciosLogica
     internal class Aluno
     {
         public string idadeAluno;
-
         public Aluno(string idade)
         {
             idadeAluno = idade;
