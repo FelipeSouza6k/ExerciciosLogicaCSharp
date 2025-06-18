@@ -12,7 +12,6 @@ namespace ExerciciosLogica
         public string modelo;
         public int ano;
         public string placa;
-
         public Moto(string modeloMoto, int anoMoto, string placaMoto)
         {
             modelo = modeloMoto;
