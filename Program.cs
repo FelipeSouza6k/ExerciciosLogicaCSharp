@@ -1,4 +1,5 @@
 ﻿using System;
+using ExerciciosLogica.Faccat;
 using ExerciciosLogica;
 
 //Soma.Main(args);
@@ -78,4 +79,14 @@ using ExerciciosLogica;
 //Tabuada1a10Array2D.Main(args);
 //Caderno.Main(args)
 //Biblioteca.Main(args);
-Moto.Main(args);
+//Moto.Main(args);
+//TotalVendasVendedorEComissao.Main(args);
+//CalcularDebitoCreditoESaldo.Main(args);
+//CalcularEstoque.Main(args);
+//LerValorPositivoNegativoOuZero.Main(args);
+//Ler3ValoresMaiorDeles.Main(args);
+//SomarOsDoisMaioresValores.Main(args);
+//Ler3ValoresOrdemCrescente.Main(args);
+//FormarTriangulo.Main(args);
+//VencedorDaPartida.Main(args);
+CombustivelDesconto.Main(args);

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExerciciosLogica
+namespace ExerciciosLogica.ExemplosAula
 {
-    internal class Matematica
+    internal class MetodoMath
     {
         public static void Main(string[] args)
         {
