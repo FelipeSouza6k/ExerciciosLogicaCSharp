@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\faccat\\combustiveldesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:faccat\\combustiveldesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\faccat\\ler3valoresordemcrescente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:faccat\\ler3valoresordemcrescente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\faccat\\verificaraposentadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:faccat\\verificaraposentadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\faccat\\leituradeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:faccat\\leituradeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|c:\\users\\aluno\\onedrive - senac - sp\\\u00E1rea de trabalho\\csharpexercicioslogica\\exemplosaula\\systemlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3A842C-6B5F-4F6A-B1CA-269742B6060C}|ExerciciosLogica.csproj|solutionrelative:exemplosaula\\systemlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CombustivelDesconto.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Faccat\\CombustivelDesconto.cs",
-              "RelativeDocumentMoniker": "Faccat\\CombustivelDesconto.cs",
-              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Faccat\\CombustivelDesconto.cs",
-              "RelativeToolTip": "Faccat\\CombustivelDesconto.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAlwDMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T21:14:30.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ler3ValoresOrdemCrescente.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Faccat\\Ler3ValoresOrdemCrescente.cs",
-              "RelativeDocumentMoniker": "Faccat\\Ler3ValoresOrdemCrescente.cs",
-              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Faccat\\Ler3ValoresOrdemCrescente.cs",
-              "RelativeToolTip": "Faccat\\Ler3ValoresOrdemCrescente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAawBEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:11:34.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "VerificarAposentadoria.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Faccat\\VerificarAposentadoria.cs",
+              "RelativeDocumentMoniker": "Faccat\\VerificarAposentadoria.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Faccat\\VerificarAposentadoria.cs",
+              "RelativeToolTip": "Faccat\\VerificarAposentadoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:43:07.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemLinq.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\ExemplosAula\\SystemLinq.cs",
+              "RelativeDocumentMoniker": "ExemplosAula\\SystemLinq.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\ExemplosAula\\SystemLinq.cs",
+              "RelativeToolTip": "ExemplosAula\\SystemLinq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:18:09.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAlwFsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAlwGEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T13:16:33.565Z",
+              "WhenOpened": "2025-06-21T13:06:40.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeituraDeProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Faccat\\LeituraDeProdutos.cs",
+              "RelativeDocumentMoniker": "Faccat\\LeituraDeProdutos.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\CSharpExerciciosLogica\\Faccat\\LeituraDeProdutos.cs",
+              "RelativeToolTip": "Faccat\\LeituraDeProdutos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA3wBgAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:45:41.621Z",
               "EditorCaption": ""
             }
           ]
